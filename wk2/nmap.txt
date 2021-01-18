@@ -1,0 +1,121 @@
+NMAP (Droplet IP: 138.197.151.44)
+
+
+TWITCH.TV
+
+root@comp3134-junyangan:~# nmap twitch.tv
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 20:39 UTC
+Nmap scan report for twitch.tv (151.101.2.167)
+Host is up (0.0011s latency).
+Other addresses for twitch.tv (not scanned): 151.101.130.167 151.101.194.167 151.101.66.167
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 15.98 seconds
+
+----------------------------
+
+root@comp3134-junyangan:~# nmap -p 8080 twitch.tv
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 20:41 UTC
+Nmap scan report for twitch.tv (151.101.66.167)
+Host is up (0.0013s latency).
+Other addresses for twitch.tv (not scanned): 151.101.194.167 151.101.2.167 151.101.130.167
+
+PORT     STATE    SERVICE
+8080/tcp filtered http-proxy
+
+Nmap done: 1 IP address (1 host up) scanned in 11.32 seconds
+
+----------------------------
+
+root@comp3134-junyangan:~# nmap -p 50-900 twitch.tv
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 20:42 UTC
+Nmap scan report for twitch.tv (151.101.130.167)
+Host is up (0.0012s latency).
+Other addresses for twitch.tv (not scanned): 151.101.66.167 151.101.194.167 151.101.2.167
+Not shown: 849 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 15.66 seconds
+
+----------------------------
+
+root@comp3134-junyangan:~# nmap -F twitch.tv
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 20:43 UTC
+Nmap scan report for twitch.tv (151.101.130.167)
+Host is up (0.0014s latency).
+Other addresses for twitch.tv (not scanned): 151.101.66.167 151.101.194.167 151.101.2.167
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 12.93 seconds
+
+
+
+TWITTER.COM
+
+root@comp3134-junyangan:~# nmap twitter.com
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 20:44 UTC
+Nmap scan report for twitter.com (104.244.42.65)
+Host is up (0.032s latency).
+Other addresses for twitter.com (not scanned): 104.244.42.193
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 16.26 seconds
+
+----------------------------
+
+root@comp3134-junyangan:~# nmap -p 500 twitch.tv
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 20:45 UTC
+Nmap scan report for twitch.tv (151.101.66.167)
+Host is up (0.0013s latency).
+Other addresses for twitch.tv (not scanned): 151.101.130.167 151.101.194.167 151.101.2.167
+
+PORT    STATE    SERVICE
+500/tcp filtered isakmp
+
+Nmap done: 1 IP address (1 host up) scanned in 11.34 seconds
+
+----------------------------
+
+root@comp3134-junyangan:~# nmap -p 40-100 twitter.com
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 20:46 UTC
+Nmap scan report for twitter.com (104.244.42.129)
+Host is up (0.032s latency).
+Other addresses for twitter.com (not scanned): 104.244.42.193
+Not shown: 60 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 12.95 seconds
+
+----------------------------
+
+root@comp3134-junyangan:~# nmap -F twitter.com
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 20:47 UTC
+Nmap scan report for twitter.com (104.244.42.1)
+Host is up (0.030s latency).
+Other addresses for twitter.com (not scanned): 104.244.42.129
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 13.06 seconds
