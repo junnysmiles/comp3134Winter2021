@@ -1,0 +1,26 @@
+TRACE ROUTE 2 (Droplet IP: 138.197.151.44)
+
+C:\WINDOWS\system32>tracert 138.197.151.44
+
+Tracing route to 138.197.151.44 over a maximum of 30 hops
+
+  1     4 ms     2 ms     2 ms  mynetwork [192.168.2.1]
+  2    81 ms    10 ms     3 ms  10.11.10.97
+  3     *        *        *     Request timed out.
+  4    20 ms    12 ms     8 ms  tcore3x-ottawa23_bundle-ether14.net.bell.ca [64.230.53.98]
+  5    13 ms     5 ms   133 ms  dis32-ottawa23_ae0.net.bell.ca [64.230.51.69]
+  6     7 ms    13 ms    23 ms  tcore4x-ottawa23_bundle-ether7.net.bell.ca [64.230.51.70]
+  7    16 ms    18 ms     7 ms  tcore4-montreal02_1-9-0-0.net.bell.ca [64.230.79.127]
+  8     5 ms    10 ms    11 ms  bx1-montreal02_hundredgige0-2-0-0.net.bell.ca [64.230.91.125]
+  9     *        6 ms     7 ms  ix-ae-10-0.tcore1.w6c-montreal.as6453.net [66.198.96.9]
+ 10    12 ms    12 ms    14 ms  if-ae-12-2.tcore1.mtt-montreal.as6453.net [64.86.31.26]
+ 11    13 ms    15 ms    13 ms  if-ae-0-2.tcore2.mtt-montreal.as6453.net [216.6.115.90]
+ 12    13 ms    16 ms    15 ms  if-ae-15-2.tcore2.ttt-toronto.as6453.net [64.86.226.37]
+ 13    17 ms    19 ms    16 ms  if-ae-10-2.tcore1.ttt-toronto.as6453.net [64.86.32.33]
+ 14    16 ms    20 ms    18 ms  if-ae-25-2.tcore1.tnk-toronto.as6453.net [64.86.33.102]
+ 15    17 ms    17 ms    17 ms  64.86.33.54
+ 16    12 ms    14 ms    14 ms  138.197.249.83
+ 17     *        *        *     Request timed out.
+ 18    13 ms    12 ms    12 ms  138.197.151.44
+
+Trace complete.
