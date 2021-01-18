@@ -19,6 +19,69 @@ ns1.d-zone.ca 162.219.54.2
 ns1.georgebrown.ca 198.96.86.35
 ns2.d-zone.ca 162.219.55.2
 ns2.georgebrown.ca 198.96.87.135
+--------------------
+Similar Domains
+
+georg--breitwieser.com | georg-abele.ch | georg-abrell.de | georg-academy.com |
+georg-ackermann-schule.de | georg-agricola-gesellschaft.de | georg-agricola.com 
+| georg-ahrens.de | georg-aigner.at | georg-aigner.com | georg-alber.de | 
+georg-albrecht-eckle.com | georg-alexander-hansen.de | georg-alexander.com | 
+georg-alexi.us.com | georg-andalusier.de | georg-anderl.de | georg-anders.de | 
+georg-andreas.ch | georg-andresen.com |
+--------------------
+Registrar Data
+
+Registrant Contact Information:
+
+Name George Brown College (Toronto)
+Organization
+Address P.O. Box 1015 Station B
+City Toronto
+State / Province ON
+Postal Code M5T2T9
+Country CA
+Phone +1.4164155000
+Fax +1.4164154667
+Email arien@georgebrown.ca
+
+Administrative Contact Information:
+
+Name George Brown College (Toronto)
+Organization
+Address P.O. Box 1015 Station B
+City Toronto
+State / Province ON
+Postal Code M5T2T9
+Country CA
+Phone +1.4164155000
+Fax +1.4164154667
+Email arien@georgebrown.ca
+
+Technical Contact Information:
+
+Name George Brown College (Toronto)
+Organization
+Address P.O. Box 1015 Station B
+City Toronto
+State / Province ON
+Postal Code M5T2T9
+Country CA
+Phone +1.4164155000
+Fax +1.4164154667
+Email arien@georgebrown.ca
+
+Billing Contact Information:
+
+Name George Brown College (Toronto)
+Organization
+Address P.O. Box 1015 Station B
+City Toronto
+State / Province ON
+Postal Code M5T2T9
+Country CA
+Phone +1.4164155000
+Fax +1.4164154667
+Email arien@georgebrown.ca
 
 
 
@@ -55,6 +118,57 @@ ns5.pinterest.com 198.51.44.9
 ns6.pinterest.com 198.51.45.9
 ns7.pinterest.com 198.51.44.73
 ns8.pinterest.com 198.51.45.73
+--------------------
+Similar Domains
+
+pinte-andermatt.ch | pinte-badrappenau.de | pinte-besson.ch | pinte-besson.com 
+| pinte-bonn.de | pinte-chill-out.de | pinte-com-seus-amigos.com | 
+pinte-daettwil.ch | pinte-de-sauvabelin.ch | pinte-des-trois-canards.info | 
+pinte-facil.com | pinte-minden.com | pinte-saga.de | pinte-schoetz.ch | 
+pinte-sisseln.ch | pinte-walde.ch | pinte.biz | pinte.ch | pinte.cn | 
+pinte.com |
+--------------------
+Registrar Data
+
+Registrant Contact Information:
+
+Name Domain Administrator
+Organization DNStination Inc.
+Address 3450 Sacramento Street, Suite 405
+City San Francisco
+State / Province CA
+Postal Code 94118
+Country US
+Phone +1.4155319335
+Fax +1.4155319336
+Email web@dnstinations.com
+
+Administrative Contact Information:
+
+Name Domain Administrator
+Organization DNStination Inc.
+Address 3450 Sacramento Street, Suite 405
+City San Francisco
+State / Province CA
+Postal Code 94118
+Country US
+Phone +1.4155319335
+Fax +1.4155319336
+Email web@dnstinations.com
+
+Technical Contact Information:
+
+Name Domain Administrator
+Organization DNStination Inc.
+Address 3450 Sacramento Street, Suite 405
+City San Francisco
+State / Province CA
+Postal Code 94118
+Country US
+Phone +1.4155319335
+Fax +1.4155319336
+Email web@dnstinations.com
+
 
 
 3) Google (google.ca)
@@ -86,6 +200,66 @@ ns1.google.com 216.239.32.10
 ns2.google.com 216.239.34.10
 ns3.google.com 216.239.36.10
 ns4.google.com 216.239.38.10
+--------------------
+Similar Domains
+
+googl%c3%a8.com | googl%c4%95.com | googl%e2%84%85c3%a8.com | 
+googl%e2%84%85c3%ef%bf%bd.com | googl----e.com | googl--e.com | googl-.com | 
+googl-1.com | googl-2.com | googl-accts.com | googl-ak.com | 
+googl-analistic.com | googl-analistic.net | googl-analistic.ru | 
+googl-analistic.ua | googl-analisys.com | googl-android.ru | 
+googl-apps-cloud.info | googl-apps.com | googl-art.com |
+--------------------
+Registrar Data
+
+Registrant Contact Information:
+
+Name Google LLC - TMA868122
+Organization
+Address 1600 Amphitheatre Parkway
+City Mountain View
+State / Province CA
+Postal Code 94043
+Country US
+Phone +1.6502530000
+Email dns-admin@google.com
+
+Administrative Contact Information:
+
+Name Google LLC - TMA868122
+Organization
+Address 1600 Amphitheatre Parkway
+City Mountain View
+State / Province CA
+Postal Code 94043
+Country US
+Phone +1.6502530000
+Email dns-admin@google.com
+
+Technical Contact Information:
+
+Name Google LLC - TMA868122
+Organization
+Address 1600 Amphitheatre Parkway
+City Mountain View
+State / Province CA
+Postal Code 94043
+Country US
+Phone +1.6502530000
+Email dns-admin@google.com
+
+Billing Contact Information:
+
+Name Google LLC - TMA868122
+Organization
+Address 1600 Amphitheatre Parkway
+City Mountain View
+State / Province CA
+Postal Code 94043
+Country US
+Phone +1.6502530000
+Email dns-admin@google.com
+
 
 
 4) Twitter (twitter.com)
@@ -119,6 +293,56 @@ d01-01.ns.twtrdns.net 208.78.70.34
 d01-02.ns.twtrdns.net 204.13.250.34
 NS3.P34.DYNECT.NET 208.78.71.34
 NS4.P34.DYNECT.NET 204.13.251.34
+--------------------
+Similar Domains
+
+twitt-book.com | twitt-book.net | twitt-book.org | twitt-booster.de | 
+twitt-bot.com | twitt-dating-retail.com | twitt-er-tweet.com | twitt-er.com | 
+twitt-ercom.com | twitt-erfolg.com | twitt-erfolg.de | twitt-erfolg.info | 
+twitt-ernet.com | twitt-err.com | twitt-face.com | twitt-farm.ru | 
+twitt-heads.com | twitt-hot.com | twitt-hot.net | twitt-images.com |
+--------------------
+Registrar Data
+
+Registrant Contact Information:
+
+Name Twitter, Inc.
+Organization Twitter, Inc.
+Address 1355 Market Street
+City San Francisco
+State / Province CA
+Postal Code 94103
+Country US
+Phone +1.4152229670
+Fax +1.4152220922
+Email domains@twitter.com
+
+Administrative Contact Information:
+
+Name Twitter, Inc.
+Organization Twitter, Inc.
+Address 1355 Market Street
+City San Francisco
+State / Province CA
+Postal Code 94103
+Country US
+Phone +1.4152229670
+Fax +1.4152220922
+Email domains@twitter.com
+
+Technical Contact Information:
+
+Name Twitter, Inc.
+Organization Twitter, Inc.
+Address 1355 Market Street
+City San Francisco
+State / Province CA
+Postal Code 94103
+Country US
+Phone +1.4152229670
+Fax +1.4152220922
+Email domains@twitter.com
+
 
 
 5) Twitch (twitch.com)
@@ -147,3 +371,48 @@ ns-1051.awsdns-03.org 205.251.196.27
 ns-2042.awsdns-63.co.uk 205.251.199.250
 ns-400.awsdns-50.com 205.251.193.144
 ns-668.awsdns-19.net205.251.194.156
+--------------------
+Similar Domains
+
+twitc.co | twitc.com | twitc.info | twitc.tv | twitca.com | twitca.re | twitca.sh | 
+twitcabin.com | twitcache.com | twitcade.com | twitcafe.com | twitcafe.ru | 
+twitcage.com | twitcake.com | twitcal.com | twitcal.net | twitcalc.com | 
+twitcalculator.com | twitcalerts.com | twitcall.com |
+--------------------
+Registrar Data
+
+Registrant Contact Information:
+
+Name Twitch Hostmaster
+Organization Twitch Interactive, Inc.
+Address 225 Bush Street, 6th Floor,
+City San Francisco
+State / Province CA
+Postal Code 94104
+Country US
+Phone +1.4156926927
+Email hostmaster@amazon.com
+
+Administrative Contact Information:
+
+Name Twitch Hostmaster
+Organization Twitch Interactive, Inc.
+Address 225 Bush Street, 6th Floor,
+City San Francisco
+State / Province CA
+Postal Code 94104
+Country US
+Phone +1.4156926927
+Email hostmaster@amazon.com
+
+Technical Contact Information:
+
+Name Twitch Hostmaster
+Organization Twitch Interactive, Inc.
+Address 225 Bush Street, 6th Floor,
+City San Francisco
+State / Province CA
+Postal Code 94104
+Country US
+Phone +1.4156926927
+Email hostmaster@amazon.com
