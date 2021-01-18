@@ -1,0 +1,83 @@
+1) George Brown College (georgebrown.ca)
+
+Checking Domain Name
+
+Domain Name: georgebrown.ca
+
+Top Level Domain: CA (Canada)
+--------------------
+DNS Lookup
+
+IP Address: 99.79.139.11
+
+Geolocation: US (United States), WA, Washington, 98108 Seattle - Google Maps
+
+Reverse DNS: ec2-99-79-139-11.ca-central-1.compute.amazonaws.com
+
+
+2) Pinterest (pinterest.com)
+
+Checking Domain Name
+
+Domain Name: pinterest.com
+
+Top Level Domain: COM (Commercial TLD)
+--------------------
+DNS Lookup
+
+IP Address: 151.101.64.84
+
+Geolocation: US (United States), CA, California, 94107 San Francisco - Google Maps
+
+Reverse DNS entry: not found
+
+
+3) Google (google.ca)
+
+Checking Domain Name
+
+Domain Name: google.ca
+
+Top Level Domain: CA (Canada)
+--------------------
+DNS Lookup
+
+IP Address: 172.217.12.131
+
+Geolocation: US (United States), CA, California, 94043 Mountain View - Google Maps
+
+Reverse DNS: lga34s19-in-f3.1e100.net
+
+
+4) Twitter (twitter.com)
+
+Checking Domain Name
+
+Domain Name: twitter.com
+
+Top Level Domain: COM (Commercial TLD)
+--------------------
+DNS Lookup
+
+IP Address: 104.244.42.193
+
+Geolocation: US (United States), CA, California, 94103 San Francisco - Google Maps
+
+Reverse DNS entry: not found
+
+
+5) Twitch (twitch.tv)
+
+Checking Domain Name
+
+Domain Name: twitch.tv
+
+Top Level Domain: TV (Tuvalu)
+--------------------
+DNS Lookup
+
+IP Address: 151.101.66.167
+
+Geolocation: US (United States), CA, California, 94107 San Francisco - Google Maps
+
+Reverse DNS entry: not found
