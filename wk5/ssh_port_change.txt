@@ -1,0 +1,29 @@
+Week 5 - Jun Yan Gan (101197834)
+SSH Port Change
+
+
+root@comp3134-junyangan:~# ufw allow 2222/tcp
+Rule added
+Rule added (v6)
+
+
+root@comp3134-junyangan:~# firewall-cmd --permanent --zone=public --add-port=2222/tcp
+success
+root@comp3134-junyangan:~# firewall-cmd --reload
+success
+
+
+root@comp3134-junyangan:~# service ssh restart
+
+
+$ ssh -p 2222 root@138.197.151.44
+
+
+
+
+
+
+
+
+
+
