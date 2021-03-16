@@ -1,0 +1,116 @@
+root@comp3134-junyangan:~# tcpdump
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+04:12:16.333201 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 3543717874:3543717982, ack 3333899248, win 501, length 108
+04:12:16.333439 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 108:252, ack 1, win 501, length 144
+04:12:16.333562 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 252:288, ack 1, win 501, length 36
+04:12:16.334546 IP 138.197.151.44.36997 > dns.google.domain: 4909+ PTR? 204.20.94.174.in-addr.arpa. (44)
+04:12:16.342879 IP dns.google.domain > 138.197.151.44.36997: 4909 1/0/0 PTR bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca. (112)
+04:12:16.343257 IP 138.197.151.44.42662 > dns.google.domain: 35604+ PTR? 44.151.197.138.in-addr.arpa. (45)
+04:12:16.346680 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 288, win 516, length 0
+04:12:16.366277 IP dns.google.domain > 138.197.151.44.42662: 35604 NXDomain 0/1/0 (112)
+04:12:16.366778 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 288:500, ack 1, win 501, length 212
+04:12:16.367109 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 500:724, ack 1, win 501, length 224
+04:12:16.367248 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 724:760, ack 1, win 501, length 36
+04:12:16.367443 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 760:948, ack 1, win 501, length 188
+04:12:16.367586 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 948:984, ack 1, win 501, length 36
+04:12:16.367960 IP 138.197.151.44.48767 > dns.google.domain: 40607+ PTR? 8.8.8.8.in-addr.arpa. (38)
+04:12:16.369412 IP dns.google.domain > 138.197.151.44.48767: 40607 1/0/0 PTR dns.google. (62)
+04:12:16.369670 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 984:1124, ack 1, win 501, length 140
+04:12:16.369920 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 1124:1160, ack 1, win 501, length 36
+04:12:16.370103 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 1160:1332, ack 1, win 501, length 172
+04:12:16.370257 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 1332:1368, ack 1, win 501, length 36
+04:12:16.370484 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 1368:1508, ack 1, win 501, length 140
+04:12:16.378473 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 948, win 513, length 0
+04:12:16.378561 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 1508:4412, ack 1, win 501, length 2904
+04:12:16.378634 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 4412:4520, ack 1, win 501, length 108
+04:12:16.378834 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 4520:4700, ack 1, win 501, length 180
+04:12:16.379684 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 4700:4736, ack 1, win 501, length 36
+04:12:16.379887 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 4736:4932, ack 1, win 501, length 196
+04:12:16.380021 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 4932:4968, ack 1, win 501, length 36
+04:12:16.380172 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 4968:5164, ack 1, win 501, length 196
+04:12:16.380630 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 1124, win 512, length 0
+04:12:16.380663 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 5164:6112, ack 1, win 501, length 948
+04:12:16.380681 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 1368, win 511, length 0
+04:12:16.380705 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 1508, win 511, length 0
+04:12:16.380806 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 6112:6308, ack 1, win 501, length 196
+04:12:16.380890 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 6308:6344, ack 1, win 501, length 36
+04:12:16.380991 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 6344:6524, ack 1, win 501, length 180
+04:12:16.381070 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 6524:6560, ack 1, win 501, length 36
+04:12:16.381237 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 6560:6756, ack 1, win 501, length 196
+04:12:16.381376 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 6756:6792, ack 1, win 501, length 36
+04:12:16.381562 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 6792:6972, ack 1, win 501, length 180
+04:12:16.381780 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 6972:7624, ack 1, win 501, length 652
+04:12:16.382013 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 7624:7972, ack 1, win 501, length 348
+04:12:16.382264 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 7972:8640, ack 1, win 501, length 668
+04:12:16.382402 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 8640:8836, ack 1, win 501, length 196
+04:12:16.388700 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 1508, win 511, options [nop,nop,sack 1 {2960:4412}], length 0
+04:12:16.388777 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 8836:9032, ack 1, win 501, length 196
+04:12:16.388802 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 4412, win 516, length 0
+04:12:16.389065 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 9032:9548, ack 1, win 501, length 516
+04:12:16.389539 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 9548:9744, ack 1, win 501, length 196
+04:12:16.389734 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 9744:9940, ack 1, win 501, length 196
+04:12:16.392828 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 4700, win 515, length 0
+04:12:16.392880 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 9940:10136, ack 1, win 501, length 196
+04:12:16.393126 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 10136:10476, ack 1, win 501, length 340
+04:12:16.393304 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 10476:10672, ack 1, win 501, length 196
+04:12:16.393468 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 10672:10868, ack 1, win 501, length 196
+04:12:16.393640 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 4932, win 514, length 0
+04:12:16.393668 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 6112, win 516, length 0
+04:12:16.393679 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 6972, win 512, length 0
+04:12:16.393820 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 10868:11064, ack 1, win 501, length 196
+04:12:16.393910 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 11064:11524, ack 1, win 501, length 460
+04:12:16.394066 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 11524:11880, ack 1, win 501, length 356
+04:12:16.394195 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 11880:12076, ack 1, win 501, length 196
+04:12:16.394322 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 12076:12272, ack 1, win 501, length 196
+04:12:16.394441 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 12272:12468, ack 1, win 501, length 196
+04:12:16.394562 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 12468:12664, ack 1, win 501, length 196
+04:12:16.394685 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 12664:12860, ack 1, win 501, length 196
+04:12:16.394834 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 12860:13056, ack 1, win 501, length 196
+04:12:16.394961 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 13056:13252, ack 1, win 501, length 196
+04:12:16.395131 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 13252:13448, ack 1, win 501, length 196
+04:12:16.395424 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 13448:13644, ack 1, win 501, length 196
+04:12:16.395575 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 13644:13840, ack 1, win 501, length 196
+04:12:16.395633 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 8836, win 516, length 0
+04:12:16.395769 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 13840:14180, ack 1, win 501, length 340
+04:12:16.395906 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 14180:14376, ack 1, win 501, length 196
+04:12:16.396054 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 14376:14572, ack 1, win 501, length 196
+04:12:16.396191 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 14572:14768, ack 1, win 501, length 196
+04:12:16.396379 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 14768:14964, ack 1, win 501, length 196
+04:12:16.396707 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 14964:15160, ack 1, win 501, length 196
+04:12:16.397056 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 15160:15356, ack 1, win 501, length 196
+04:12:16.397267 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 15356:15552, ack 1, win 501, length 196
+04:12:16.397543 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 15552:15748, ack 1, win 501, length 196
+04:12:16.397720 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 15748:15944, ack 1, win 501, length 196
+04:12:16.397855 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 15944:16140, ack 1, win 501, length 196
+04:12:16.397980 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 16140:16336, ack 1, win 501, length 196
+04:12:16.398101 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 16336:16532, ack 1, win 501, length 196
+04:12:16.398233 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 16532:16728, ack 1, win 501, length 196
+04:12:16.398518 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 16728:16924, ack 1, win 501, length 196
+04:12:16.398671 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 16924:17120, ack 1, win 501, length 196
+04:12:16.398798 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 17120:17316, ack 1, win 501, length 196
+04:12:16.398932 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 17316:17512, ack 1, win 501, length 196
+04:12:16.399169 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 17512:17708, ack 1, win 501, length 196
+04:12:16.405671 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 9744, win 512, length 0
+04:12:16.405768 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 17708:17904, ack 1, win 501, length 196
+04:12:16.406040 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 17904:18244, ack 1, win 501, length 340
+04:12:16.406213 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 18244:18440, ack 1, win 501, length 196
+04:12:16.406377 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 18440:18636, ack 1, win 501, length 196
+04:12:16.406650 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 18636:18832, ack 1, win 501, length 196
+04:12:16.406874 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 18832:19028, ack 1, win 501, length 196
+04:12:16.409886 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 13252, win 516, length 0
+04:12:16.409955 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 19028:19224, ack 1, win 501, length 196
+04:12:16.410192 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 19224:19564, ack 1, win 501, length 340
+04:12:16.410368 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 19564:19760, ack 1, win 501, length 196
+04:12:16.410549 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 19760:19956, ack 1, win 501, length 196
+04:12:16.410709 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 19956:20152, ack 1, win 501, length 196
+04:12:16.410877 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 20152:20348, ack 1, win 501, length 196
+04:12:16.411090 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 20348:20544, ack 1, win 501, length 196
+04:12:16.411378 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 20544:20740, ack 1, win 501, length 196
+04:12:16.411540 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 20740:20936, ack 1, win 501, length 196
+04:12:16.411704 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 20936:21132, ack 1, win 501, length 196
+04:12:16.411931 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 21132:21328, ack 1, win 501, length 196
+04:12:16.412078 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 21328:21524, ack 1, win 501, length 196
+04:12:16.412214 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 21524:21720, ack 1, win 501, length 196
+04:12:16.412564 IP 138.197.151.44.ssh > bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262: Flags [P.], seq 21720:21916, ack 1, win 501, length 196
+04:12:16.412660 IP bras-base-orlnon0608w-grc-21-174-94-20-204.dsl.bell.ca.56262 > 138.197.151.44.ssh: Flags [.], ack 17708, win 516, length 0
